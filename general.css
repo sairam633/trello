@@ -1,0 +1,10 @@
+body{
+    font-family: Roboto,Arial;
+    width: 1900px;
+    background-image: url(bg-rain-drops-on-window-shield.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+p,span,div{
+    font-family: Roboto,Arial;
+}
